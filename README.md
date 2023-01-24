@@ -1,2 +1,2 @@
 # tictactoe
-ИТОГОВОЕ ЗАДАНИЕ 5.6.1
+Final task for the section 5.6.1
